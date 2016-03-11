@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1457713524 source:c:\users\bmcgovern\documents\feudalism\lord.cpp
+	"Lord.h"
+	<iostream>
+	<vector>
+
+1457713752 c:\users\bmcgovern\documents\feudalism\lord.h
+	<iostream>
+
+1457713553 source:c:\users\bmcgovern\documents\feudalism\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	"Lord.h"
+
+1457713678 source:c:\users\bmcgovern\documents\feudalism\territory.cpp
+	"Territory.h"
+
+1457713752 c:\users\bmcgovern\documents\feudalism\territory.h
+	<iostream>
+
+1457713524 source:c:\users\bmcgovern\documents\github\feudalism\lord.cpp
+	"Lord.h"
+	<iostream>
+	<vector>
+
+1457713752 c:\users\bmcgovern\documents\github\feudalism\lord.h
+	<iostream>
+
+1457714041 source:c:\users\bmcgovern\documents\github\feudalism\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	"Lord.h"
+
+1457713678 source:c:\users\bmcgovern\documents\github\feudalism\territory.cpp
+	"Territory.h"
+
+1457713752 c:\users\bmcgovern\documents\github\feudalism\territory.h
+	<iostream>
+
